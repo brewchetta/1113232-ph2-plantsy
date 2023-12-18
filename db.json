@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Poinsettia",
+      "price": "6000.99",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/beautiful-poinsettia-in-wicker-pot-gifts-and-space-royalty-free-image-1697053079.jpg?crop=0.668xw:1.00xh;0.179xw,0&resize=1200:*",
+      "id": 8
     }
   ]
 }
